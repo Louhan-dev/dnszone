@@ -4,9 +4,7 @@ Simple script for dns zone transfer.
 
 Installation:
 
-git clone https://github.com/Louhan-dev/dnszone.git 
-cd dnszone
-chmod +x dnszone.sh
+git clone https://github.com/Louhan-dev/dnszone.git && cd dnszone && chmod +x dnszone.sh
 
 Usage:
 
